@@ -1,0 +1,28 @@
+html {
+    --green: #4c7;
+    --light: #5d8;
+    background: var(--green);
+}
+
+body {
+    background-color: #4c7; 
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 200px;
+}
+
+section {
+    border: 1px solid lightgrey;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 10;
+    width: 40%;
+    background: lightgreen;
+    
+}
